@@ -1,0 +1,11 @@
+ubuntu python2 in 10m of stockfish: 
+877 positions 
+
+windows python3 in 10m of stockfish:
+724 positions 
+
+automate stockfish program in 10m:
+524 positions 
+
+ubuntu python2 with screen locked in 10m:
+504 positions
